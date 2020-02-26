@@ -1,4 +1,4 @@
-# Noughts_And_Crosses
+# NoughtsAndCrosses
 Sports themed tic tac toe game for the iphone or ipad.
 
 Created by Andrew Shepherd, Blue Oak Apps, Copyright © 2018
